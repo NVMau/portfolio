@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact",
+    "hire": "Hire Me"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Nguyen Van Mau",
+    "available": "Available for freelance",
+    "summary": "Aspiring Back-End Developer with a solid foundation in Golang and Java, and a strong interest in practical AI applications. Eager to gain hands-on experience on real-world systems with a focus on performance, scalability, and reliability.",
+    "cta_work": "View My Work",
+    "cta_cv": "Download CV",
+    "roles": ["Backend Developer", "AI Engineer", "Microservices Architect", "Go & Java Specialist"]
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Get to know me better",
+    "description1": "I'm a Backend Developer & AI Engineer based in Ho Chi Minh City, Vietnam. With a strong foundation in Go and Java, I build scalable microservices and integrate AI solutions into production systems.",
+    "description2": "My passion lies in creating reliable, high-performance backend architectures. I enjoy tackling complex problems — from designing distributed systems with Kafka and Redis to building RAG-powered AI assistants.",
+    "description3": "When I'm not coding, I'm exploring new technologies, contributing to open-source, or working on side projects that push my skills further.",
+    "what_i_do": "What I Do",
+    "card_backend_title": "Backend Systems",
+    "card_backend_desc": "Building scalable microservices with Go, Java, and modern architectures",
+    "card_ai_title": "AI Integration",
+    "card_ai_desc": "RAG architectures, LLM integration, and intelligent chatbots",
+    "card_cloud_title": "Cloud & DevOps",
+    "card_cloud_desc": "AWS, Docker, Kafka — deploying and scaling production systems",
+    "location": "Ho Chi Minh City, Vietnam",
+    "education": "CS - HCMOU (2021-2025)",
+    "current": "Currently: MobiFone Plus",
+    "passion": "Passionate about: Performance & Scalability"
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "My professional journey",
+    "current": "Current"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "Things I've built",
+    "filter_all": "All",
+    "filter_ai": "AI/ML",
+    "filter_backend": "Backend",
+    "filter_fullstack": "Full-Stack",
+    "live_demo": "Live Demo",
+    "github": "GitHub",
+    "coming_soon": "Coming Soon",
+    "coming_soon_desc": "More exciting projects are on the way. Stay tuned!",
+    "no_public_repo": "Professional project — no public repo"
+  },
+  "skills": {
+    "title": "Skills & Technologies",
+    "subtitle": "My technical toolkit",
+    "languages": "Languages & Frameworks",
+    "databases": "Databases & Storage",
+    "cloud": "Cloud & DevOps",
+    "ai": "AI / ML Stack",
+    "tools": "Tools & Protocols"
+  },
+  "stats": {
+    "years": "Years of Experience",
+    "projects": "Projects Completed",
+    "companies": "Companies Worked",
+    "stacks": "Tech Stacks Mastered",
+    "code": "Lines of Code Written"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Let's work together",
+    "available": "Available for freelance projects",
+    "response_time": "Usually responds within 24 hours",
+    "open_to": "Open to: Remote & On-site",
+    "form_name": "Name",
+    "form_email": "Email",
+    "form_subject": "Subject",
+    "form_budget": "Budget (optional)",
+    "form_message": "Message",
+    "form_send": "Send Message 🚀",
+    "form_sending": "Sending...",
+    "form_success": "Message sent successfully! I'll get back to you soon.",
+    "form_error": "Something went wrong. Please try again."
+  },
+  "footer": {
+    "tagline": "Building reliable systems, one service at a time.",
+    "copyright": "© 2025 Nguyen Van Mau. Built with Next.js & ❤️",
+    "back_to_top": "Back to Top"
+  },
+  "testimonials": {
+    "title": "What People Say",
+    "subtitle": "Testimonials from colleagues and clients"
+  }
+}

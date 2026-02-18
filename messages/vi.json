@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Về tôi",
+    "experience": "Kinh nghiệm",
+    "projects": "Dự án",
+    "skills": "Kỹ năng",
+    "contact": "Liên hệ",
+    "hire": "Thuê tôi"
+  },
+  "hero": {
+    "greeting": "Xin chào, tôi là",
+    "name": "Nguyễn Văn Mẫu",
+    "available": "Sẵn sàng nhận dự án freelance",
+    "summary": "Backend Developer với nền tảng vững chắc về Golang và Java, đam mê ứng dụng AI thực tế. Tập trung vào hiệu năng, khả năng mở rộng và độ tin cậy của hệ thống.",
+    "cta_work": "Xem dự án",
+    "cta_cv": "Tải CV",
+    "roles": ["Backend Developer", "AI Engineer", "Kiến trúc Microservices", "Go & Java Specialist"]
+  },
+  "about": {
+    "title": "Về tôi",
+    "subtitle": "Tìm hiểu thêm về tôi",
+    "description1": "Tôi là Backend Developer & AI Engineer tại TP. Hồ Chí Minh, Việt Nam. Với nền tảng vững chắc về Go và Java, tôi xây dựng các hệ thống microservices có khả năng mở rộng và tích hợp giải pháp AI vào hệ thống production.",
+    "description2": "Đam mê của tôi là tạo ra các kiến trúc backend đáng tin cậy, hiệu năng cao. Tôi thích giải quyết các vấn đề phức tạp — từ thiết kế hệ thống phân tán với Kafka và Redis đến xây dựng AI assistant dựa trên RAG.",
+    "description3": "Khi không code, tôi khám phá công nghệ mới, đóng góp cho open-source, hoặc làm các side project để nâng cao kỹ năng.",
+    "what_i_do": "Tôi làm gì",
+    "card_backend_title": "Hệ thống Backend",
+    "card_backend_desc": "Xây dựng microservices có khả năng mở rộng với Go, Java và kiến trúc hiện đại",
+    "card_ai_title": "Tích hợp AI",
+    "card_ai_desc": "Kiến trúc RAG, tích hợp LLM và chatbot thông minh",
+    "card_cloud_title": "Cloud & DevOps",
+    "card_cloud_desc": "AWS, Docker, Kafka — triển khai và mở rộng hệ thống production",
+    "location": "TP. Hồ Chí Minh, Việt Nam",
+    "education": "CNTT - ĐH Mở TPHCM (2021-2025)",
+    "current": "Hiện tại: MobiFone Plus",
+    "passion": "Đam mê: Hiệu năng & Khả năng mở rộng"
+  },
+  "experience": {
+    "title": "Kinh nghiệm",
+    "subtitle": "Hành trình chuyên nghiệp",
+    "current": "Hiện tại"
+  },
+  "projects": {
+    "title": "Dự án nổi bật",
+    "subtitle": "Những gì tôi đã xây dựng",
+    "filter_all": "Tất cả",
+    "filter_ai": "AI/ML",
+    "filter_backend": "Backend",
+    "filter_fullstack": "Full-Stack",
+    "live_demo": "Demo trực tiếp",
+    "github": "GitHub",
+    "coming_soon": "Sắp ra mắt",
+    "coming_soon_desc": "Nhiều dự án thú vị đang trong quá trình phát triển. Hãy đón chờ!",
+    "no_public_repo": "Dự án chuyên nghiệp — không có repo công khai"
+  },
+  "skills": {
+    "title": "Kỹ năng & Công nghệ",
+    "subtitle": "Bộ công cụ kỹ thuật của tôi",
+    "languages": "Ngôn ngữ & Framework",
+    "databases": "Cơ sở dữ liệu & Lưu trữ",
+    "cloud": "Cloud & DevOps",
+    "ai": "AI / ML Stack",
+    "tools": "Công cụ & Giao thức"
+  },
+  "stats": {
+    "years": "Năm kinh nghiệm",
+    "projects": "Dự án hoàn thành",
+    "companies": "Công ty đã làm",
+    "stacks": "Tech Stack thành thạo",
+    "code": "Dòng code đã viết"
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "subtitle": "Hãy cùng hợp tác",
+    "available": "Sẵn sàng nhận dự án freelance",
+    "response_time": "Thường phản hồi trong 24 giờ",
+    "open_to": "Mở: Từ xa & Tại chỗ",
+    "form_name": "Họ tên",
+    "form_email": "Email",
+    "form_subject": "Chủ đề",
+    "form_budget": "Ngân sách (tùy chọn)",
+    "form_message": "Tin nhắn",
+    "form_send": "Gửi tin nhắn 🚀",
+    "form_sending": "Đang gửi...",
+    "form_success": "Gửi tin nhắn thành công! Tôi sẽ phản hồi sớm.",
+    "form_error": "Có lỗi xảy ra. Vui lòng thử lại."
+  },
+  "footer": {
+    "tagline": "Xây dựng hệ thống đáng tin cậy, từng service một.",
+    "copyright": "© 2025 Nguyễn Văn Mẫu. Xây dựng với Next.js & ❤️",
+    "back_to_top": "Về đầu trang"
+  },
+  "testimonials": {
+    "title": "Mọi người nói gì",
+    "subtitle": "Đánh giá từ đồng nghiệp và khách hàng"
+  }
+}
