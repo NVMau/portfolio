@@ -6,7 +6,7 @@ import { useRef, useState, useEffect } from "react";
 import { ExternalLink, Github, Sparkles, Lock } from "lucide-react";
 import { projects, type Project } from "@/data/projects";
 
-const filters = ["all", "ai", "backend", "fullstack"] as const;
+const filters = ["all", "ai", "backend", "fullstack", "automation"] as const;
 
 export function Projects() {
   const t = useTranslations("projects");

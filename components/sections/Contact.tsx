@@ -161,7 +161,7 @@ export function Contact() {
                   <input
                     {...register("name", { required: true })}
                     className="w-full px-4 py-2.5 rounded-lg bg-[var(--color-bg-primary)] border border-[var(--color-border)] text-[var(--color-text-primary)] placeholder-[var(--color-text-muted)] focus:border-[var(--color-accent-primary)] focus:outline-none focus:ring-1 focus:ring-[var(--color-accent-primary)] transition-all"
-                    placeholder="John Doe"
+                    placeholder="Tony Stark"
                   />
                   {errors.name && (
                     <p className="text-xs text-red-400 mt-1">Required</p>
@@ -178,7 +178,7 @@ export function Contact() {
                     })}
                     type="email"
                     className="w-full px-4 py-2.5 rounded-lg bg-[var(--color-bg-primary)] border border-[var(--color-border)] text-[var(--color-text-primary)] placeholder-[var(--color-text-muted)] focus:border-[var(--color-accent-primary)] focus:outline-none focus:ring-1 focus:ring-[var(--color-accent-primary)] transition-all"
-                    placeholder="john@example.com"
+                    placeholder="tony@starkindustries.com"
                   />
                   {errors.email && (
                     <p className="text-xs text-red-400 mt-1">Valid email required</p>
@@ -195,7 +195,7 @@ export function Contact() {
                   <input
                     {...register("subject", { required: true })}
                     className="w-full px-4 py-2.5 rounded-lg bg-[var(--color-bg-primary)] border border-[var(--color-border)] text-[var(--color-text-primary)] placeholder-[var(--color-text-muted)] focus:border-[var(--color-accent-primary)] focus:outline-none focus:ring-1 focus:ring-[var(--color-accent-primary)] transition-all"
-                    placeholder="Project inquiry"
+                    placeholder="Build me a Death Star 💀"
                   />
                 </div>
                 <div>
@@ -205,7 +205,7 @@ export function Contact() {
                   <input
                     {...register("budget")}
                     className="w-full px-4 py-2.5 rounded-lg bg-[var(--color-bg-primary)] border border-[var(--color-border)] text-[var(--color-text-primary)] placeholder-[var(--color-text-muted)] focus:border-[var(--color-accent-primary)] focus:outline-none focus:ring-1 focus:ring-[var(--color-accent-primary)] transition-all"
-                    placeholder="$1,000 - $5,000"
+                    placeholder="Mass money 💰"
                   />
                 </div>
               </div>
@@ -219,7 +219,7 @@ export function Contact() {
                   {...register("message", { required: true })}
                   rows={5}
                   className="w-full px-4 py-2.5 rounded-lg bg-[var(--color-bg-primary)] border border-[var(--color-border)] text-[var(--color-text-primary)] placeholder-[var(--color-text-muted)] focus:border-[var(--color-accent-primary)] focus:outline-none focus:ring-1 focus:ring-[var(--color-accent-primary)] transition-all resize-none"
-                  placeholder="Tell me about your project..."
+                  placeholder="I need a backend that can handle mass traffic... yesterday 😅"
                 />
               </div>
 

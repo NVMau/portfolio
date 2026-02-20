@@ -4,7 +4,7 @@ export interface Project {
   description: string;
   descriptionVi: string;
   techStack: string[];
-  category: "ai" | "backend" | "fullstack";
+  category: "ai" | "backend" | "fullstack" | "automation";
   githubUrl?: string;
   liveUrl?: string;
   isFeatured: boolean;
@@ -40,13 +40,38 @@ export const projects: Project[] = [
     noteVi: "Dự án chuyên nghiệp — không có repo công khai",
   },
   {
-    id: "studyhub",
-    name: "StudyHub — LMS with .NET 8",
-    description: "Modern Learning Management System with role-based access, real-time tracking & grading",
-    descriptionVi: "Hệ thống quản lý học tập hiện đại với phân quyền, theo dõi real-time và chấm điểm",
-    techStack: [".NET 8", "C#", "ReactJS", "MySQL", "Cloudinary", "RESTful API"],
-    category: "fullstack",
-    githubUrl: "https://github.com/NVMau/StudyHub_.Net8",
-    isFeatured: false,
+    id: "skillhub-rag",
+    name: "SkillHub — AI-Powered Learning Platform",
+    description: "Microservices LMS with RAG model — semantic search across course materials, personalized learning paths, automated content analysis & context-aware AI assistant",
+    descriptionVi: "Nền tảng LMS microservices với mô hình RAG — tìm kiếm ngữ nghĩa tài liệu, lộ trình học cá nhân hóa, phân tích nội dung tự động & AI assistant theo ngữ cảnh",
+    techStack: ["Spring Boot", "RAG", "Vector DB", "LLM", "Kafka", "MongoDB", "Docker", "GitHub Actions"],
+    category: "ai",
+    githubUrl: "https://github.com/NVMau/SkillHub-Microservices",
+    isFeatured: true,
+    badge: "🧠 RAG Architecture",
+    badgeVi: "🧠 Kiến trúc RAG",
+  },
+  {
+    id: "tiktok-sync",
+    name: "TikTok Shop Sync Server",
+    description: "A Go-based synchronization server for TikTok Shop — real-time order sync via webhooks, inventory management, fulfillment & multi-shop OAuth integration",
+    descriptionVi: "Server đồng bộ TikTok Shop viết bằng Go — đồng bộ đơn hàng real-time qua webhook, quản lý tồn kho, fulfillment & tích hợp OAuth đa shop",
+    techStack: ["Go (Fiber)", "PostgreSQL", "Redis", "Asynq", "GORM", "Docker", "TikTok API"],
+    category: "backend",
+    githubUrl: "https://github.com/NVMau/tiktok-sync-service",
+    isFeatured: true,
+  },
+  {
+    id: "rpa-freelance",
+    name: "RPA & Web Automation Services",
+    description: "Freelance automation projects — building bots to interact with client web platforms via API calls and browser automation, handling repetitive business workflows at scale",
+    descriptionVi: "Các dự án freelance tự động hóa — xây dựng bot tương tác với nền tảng web của khách hàng qua API và trình duyệt tự động, xử lý các quy trình nghiệp vụ lặp đi lặp lại",
+    techStack: ["UiPath", "Python", "C#", "Playwright", "REST API", "Selenium"],
+    category: "automation",
+    isFeatured: true,
+    badge: "🤖 Freelance",
+    badgeVi: "🤖 Freelance",
+    note: "Client projects under NDA — no public repo",
+    noteVi: "Dự án khách hàng bảo mật NDA — không có repo công khai",
   },
 ];

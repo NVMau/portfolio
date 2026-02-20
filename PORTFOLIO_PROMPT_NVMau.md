@@ -249,7 +249,7 @@ Left:
   - Contact info cards:
       📧 nmau4669@gmail.com (clickable)
       📍 Ho Chi Minh City, Vietnam
-      💼 Open to: Remote & On-site
+      💼 Open to: Freelance job
   - Social links: GitHub | LinkedIn
   - Response time: "Usually responds within 24 hours"
 

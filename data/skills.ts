@@ -60,6 +60,17 @@ export const skillCategories: SkillCategory[] = [
     ],
   },
   {
+    id: "automation",
+    titleKey: "automation",
+    skills: [
+      { name: "UiPath" },
+      { name: "Playwright" },
+      { name: "Selenium" },
+      { name: "Web Scraping" },
+      { name: "API Automation" },
+    ],
+  },
+  {
     id: "tools",
     titleKey: "tools",
     skills: [

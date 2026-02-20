@@ -68,10 +68,12 @@ export function About() {
             {/* Avatar */}
             <div className="flex justify-center lg:justify-start">
               <div className="relative">
-                <div className="w-48 h-48 rounded-full glass flex items-center justify-center glow">
-                  <span className="text-5xl font-[family-name:var(--font-display)] font-bold text-[var(--color-accent-primary)]">
-                    NVM
-                  </span>
+                <div className="w-48 h-48 rounded-full glass overflow-hidden glow">
+                  <img
+                    src="/images/avatar.jpg"
+                    alt="NVMau"
+                    className="w-full h-full object-cover object-top scale-150"
+                  />
                 </div>
                 <div className="absolute -bottom-2 -right-2 px-3 py-1 rounded-full bg-[var(--color-accent-green)] text-[var(--color-bg-primary)] text-xs font-medium">
                   Available

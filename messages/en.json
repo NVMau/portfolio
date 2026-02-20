@@ -22,7 +22,7 @@
     "subtitle": "Get to know me better",
     "description1": "I'm a Backend Developer & AI Engineer based in Ho Chi Minh City, Vietnam. With a strong foundation in Go and Java, I build scalable microservices and integrate AI solutions into production systems.",
     "description2": "My passion lies in creating reliable, high-performance backend architectures. I enjoy tackling complex problems — from designing distributed systems with Kafka and Redis to building RAG-powered AI assistants.",
-    "description3": "When I'm not coding, I'm exploring new technologies, contributing to open-source, or working on side projects that push my skills further.",
+    "description3": "I also take on freelance RPA & automation projects — building bots with UiPath, Playwright, and Python to automate repetitive business workflows for clients.",
     "what_i_do": "What I Do",
     "card_backend_title": "Backend Systems",
     "card_backend_desc": "Building scalable microservices with Go, Java, and modern architectures",
@@ -47,6 +47,7 @@
     "filter_ai": "AI/ML",
     "filter_backend": "Backend",
     "filter_fullstack": "Full-Stack",
+    "filter_automation": "RPA/Automation",
     "live_demo": "Live Demo",
     "github": "GitHub",
     "coming_soon": "Coming Soon",
@@ -60,6 +61,7 @@
     "databases": "Databases & Storage",
     "cloud": "Cloud & DevOps",
     "ai": "AI / ML Stack",
+    "automation": "RPA & Automation",
     "tools": "Tools & Protocols"
   },
   "stats": {
@@ -74,7 +76,7 @@
     "subtitle": "Let's work together",
     "available": "Available for freelance projects",
     "response_time": "Usually responds within 24 hours",
-    "open_to": "Open to: Remote & On-site",
+    "open_to": "Open to: Remote & Freelance job",
     "form_name": "Name",
     "form_email": "Email",
     "form_subject": "Subject",

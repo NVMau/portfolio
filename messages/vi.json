@@ -22,7 +22,7 @@
     "subtitle": "Tìm hiểu thêm về tôi",
     "description1": "Tôi là Backend Developer & AI Engineer tại TP. Hồ Chí Minh, Việt Nam. Với nền tảng vững chắc về Go và Java, tôi xây dựng các hệ thống microservices có khả năng mở rộng và tích hợp giải pháp AI vào hệ thống production.",
     "description2": "Đam mê của tôi là tạo ra các kiến trúc backend đáng tin cậy, hiệu năng cao. Tôi thích giải quyết các vấn đề phức tạp — từ thiết kế hệ thống phân tán với Kafka và Redis đến xây dựng AI assistant dựa trên RAG.",
-    "description3": "Khi không code, tôi khám phá công nghệ mới, đóng góp cho open-source, hoặc làm các side project để nâng cao kỹ năng.",
+    "description3": "Tôi cũng nhận các dự án freelance RPA & tự động hóa — xây dựng bot với UiPath, Playwright và Python để tự động hóa các quy trình nghiệp vụ lặp đi lặp lại cho khách hàng.",
     "what_i_do": "Tôi làm gì",
     "card_backend_title": "Hệ thống Backend",
     "card_backend_desc": "Xây dựng microservices có khả năng mở rộng với Go, Java và kiến trúc hiện đại",
@@ -47,6 +47,7 @@
     "filter_ai": "AI/ML",
     "filter_backend": "Backend",
     "filter_fullstack": "Full-Stack",
+    "filter_automation": "RPA/Tự động hóa",
     "live_demo": "Demo trực tiếp",
     "github": "GitHub",
     "coming_soon": "Sắp ra mắt",
@@ -60,6 +61,7 @@
     "databases": "Cơ sở dữ liệu & Lưu trữ",
     "cloud": "Cloud & DevOps",
     "ai": "AI / ML Stack",
+    "automation": "RPA & Tự động hóa",
     "tools": "Công cụ & Giao thức"
   },
   "stats": {
